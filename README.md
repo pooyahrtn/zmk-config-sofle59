@@ -1,4 +1,4 @@
-# Sofle Choc or MX with 2 encoders. 
+# Sofle Choc 59 key 1 encoder
 
 Flash firmware:
 1. Keep both halves powered on.
