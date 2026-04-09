@@ -96,11 +96,11 @@
             //               |     |      |      |      |        |  |       |      |       |       |      |
 
             bindings = <
-&trans            &trans        &trans     &trans    &trans     &trans                                  &trans                 &trans  &trans  &trans  &trans     &trans
-&trans            &trans        &trans     &kp UP    &trans     &kp LEFT_PARENTHESIS                    &kp RIGHT_PARENTHESIS  &kp N7  &kp N8  &kp N9  &kp N0     &trans
-&kp LEFT_CONTROL  &kp LSHFT     &kp LEFT   &kp DOWN  &kp RIGHT  &kp LBKT                                &kp RBKT               &hm RGUI N4  &hm RALT N5  &hm RCTRL N6  &hm RSHFT MINUS  &trans
-&trans            &kp LEFT_GUI  &kp MINUS  &trans    &kp PLUS   &kp LEFT_BRACE        &trans    &trans  &kp RIGHT_BRACE        &kp N1  &kp N2  &kp N3  &kp STAR   &trans
-                                &trans     &trans    &trans     &trans                &trans    &trans  &mo 3                  &trans  &trans  &trans
+&trans            &trans        &trans     &trans    &trans     &trans                                  &trans                 &trans       &trans       &trans        &trans           &trans
+&trans            &trans        &trans     &kp UP    &trans     &kp LEFT_PARENTHESIS                    &kp RIGHT_PARENTHESIS  &kp N7       &kp N8       &kp N9        &kp N0           &trans
+&kp LEFT_CONTROL  &kp LSHFT     &kp LEFT   &kp DOWN  &kp RIGHT  &kp LBKT                                &kp RBKT               &hm RGUI N4  &hm RALT N5  &hm RCTRL N6  &hm RSHFT MINUS  &kp PIPE
+&trans            &kp LEFT_GUI  &kp MINUS  &trans    &kp PLUS   &kp LEFT_BRACE        &trans    &trans  &kp RIGHT_BRACE        &kp N1       &kp N2       &kp N3        &kp STAR         &trans
+                                &trans     &trans    &trans     &trans                &trans    &trans  &mo 3                  &trans       &trans       &trans
             >;
 
             sensor-bindings =
